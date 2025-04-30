@@ -1,0 +1,31 @@
+# Java Requirements
+java.version=17
+javafx.version=17.0.2
+
+# Build Tool
+maven.version=3.6.0
+
+# Database
+mysql.version=8.0.33
+mysql-connector-java.version=8.0.33
+
+# API and Data Handling
+okhttp.version=4.12.0
+json.version=20231013
+
+# System Requirements
+- Operating System: Windows 10/11, macOS, or Linux
+- RAM: Minimum 4GB
+- Storage: Minimum 1GB free space
+- Internet Connection: Required for real-time stock data
+- Display: Minimum 1280x720 resolution
+
+# Development Tools
+- JDK 17 or higher
+- Maven 3.6.0 or higher
+- MySQL Server 8.0 or higher
+- Git (for version control)
+
+# Optional Development Tools
+- MySQL Workbench (for database management)
+- IDE (IntelliJ IDEA, Eclipse, or VS Code with Java extensions) 
